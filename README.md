@@ -1,2 +1,2 @@
 # platzi-curso-practico-javascript
-Repositorio del Curso del Práctico de JavaScript
+Repositorio del Curso Práctico de JavaScript
