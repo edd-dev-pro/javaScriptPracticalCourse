@@ -13,7 +13,6 @@ const ladoTriangulo1 = 6
 const ladoTriangulo2 = 6
 const ladoTrianguloB = 4
 
-// console.log('Los lados del triángulo miden ' + ladoTriangulo1 + 'cm, ' + ladoTriangulo2 + 'cm, ' + ladoTrianguloB + 'cm')
 console.log(
     'Los lados del triángulo miden ' 
     + ladoTriangulo1 
